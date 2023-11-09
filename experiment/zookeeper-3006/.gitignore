@@ -1,0 +1,6 @@
+trials/
+build/
+tree.json
+blockmap.txt
+experiment.out
+pid.txt
